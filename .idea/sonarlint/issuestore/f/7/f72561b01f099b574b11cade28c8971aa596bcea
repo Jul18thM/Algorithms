@@ -1,0 +1,26 @@
+
+;squid:S1659^"Declare "y" on a separate line.(¼°ùÿÿÿÿ
+?squid:S1659§""Declare "last" on a separate line.(Ãñ¯øÿÿÿÿ
+?squid:S1068*")Remove this unused "BLACK" private field.(ï¥Ó)
+psquid:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü’²™
+usquid:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(£½Øüÿÿÿÿ
+psquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û
+Dsquid:S4274C"(Replace this assert with a proper check.(½îÍüÿÿÿÿ
+bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(»²Î«
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(×’­Ğùÿÿÿÿ
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(õ†òäûÿÿÿÿ
+jsquid:S3776—"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ëĞÀ
+nsquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷û²•ÿÿÿÿÿ
+isquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üé´Â
+jsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ëĞÀ
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ïÿ®
+osquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¹êÍıÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÕêê
+osquid:S00117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôâ¡úÿÿÿÿ
+isquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……Q
+osquid:S00117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôàŒøşÿÿÿÿ
+nsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(×’­Ğùÿÿÿÿ
+nsquid:S3457­"Q%n should be used in place of \n to produce the platform-specific line separator.(õ†òäûÿÿÿÿ

@@ -1,0 +1,25 @@
+
+6squid:S1659I"Declare "w" on a separate line.(óô
+5squid:S1659J"Declare "j" on a separate line.(ÌÙÃ/
+6squid:S1659T"Declare "w" on a separate line.(óô
+7squid:S1659Š"Declare "w" on a separate line.(óô
+7squid:S1659”"Declare "w" on a separate line.(óô
+<squid:S1659¡"Declare "y" on a separate line.(¨ÍÇøÿÿÿÿ
+<squid:S1659§"Declare "y" on a separate line.(¨ÍÇøÿÿÿÿ
+Gsquid:S1066©"/Merge this if statement with the enclosing one.(ÑúÃ”
+usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(—ß×Äıÿÿÿÿ
+Dsquid:S4274`"(Replace this assert with a proper check.(½îÍüÿÿÿÿ
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(Çª›×øÿÿÿÿ
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(š¶Ïş
+P
+squid:S106–"9Replace this use of System.out or System.err by a logger.(´åš¡
+U
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(Ñƒ‡ûÿÿÿÿ
+nsquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(èÓ˜Îşÿÿÿÿ
+isquid:S3776{"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(”ö™Ó
+nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÓ˜Îşÿÿÿÿ
+isquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ö™Ó
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼üë»üÿÿÿÿ
+nsquid:S3457ƒ"Q%n should be used in place of \n to produce the platform-specific line separator.(Çª›×øÿÿÿÿ

@@ -1,0 +1,5 @@
+
+„ squid:ForLoopCounterChangedCheckw"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò†«½
+psquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾•ÌÝ
+hsquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(ª›Þ•úÿÿÿÿ
+nsquid:S3776G"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(´É†úúÿÿÿÿ

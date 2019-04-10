@@ -1,0 +1,6 @@
+
+rsquid:S1192€"UDefine a constant instead of duplicating this literal "www.cs.princeton.edu" 3 times.(‰™ßÙÿÿÿÿÿ
+vsquid:S2293þ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä ÇÚþÿÿÿÿ
+osquid:S3776©"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.( “¥œûÿÿÿÿ
+fsquid:S00119."IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(­´½‡øÿÿÿÿ
+fsquid:S00119."IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(­´½‡øÿÿÿÿ

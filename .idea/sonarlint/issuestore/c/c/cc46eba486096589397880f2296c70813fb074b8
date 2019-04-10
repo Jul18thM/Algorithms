@@ -1,0 +1,22 @@
+
+Qsquid:UnusedPrivateMethods",Remove this unused private "dantzig" method.(©ÊŠù
+Tsquid:UnusedPrivateMethod")Remove this unused private "show" method.(Öœ“úÿÿÿÿ
+fsquid:S1192‚"IDefine a constant instead of duplicating this literal "value = " 3 times.(ÎéÛñüÿÿÿÿ
+8squid:S3626‚"Remove this redundant jump.(Ç­‘ˆÿÿÿÿÿ
+?squid:S4274T"(Replace this assert with a proper check.(Û×Ä
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ì‰íÍûÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(¹ÃÄáıÿÿÿÿ
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+Dsquid:S1481ˆ"'Remove this unused "lp" local variable.(Ùÿß…ÿÿÿÿÿ
+isquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Üîù
+osquid:S00117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ôœÛúÿÿÿÿ
+jsquid:S00117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¸œİ
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô—Ëé
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«°šÆúÿÿÿÿ
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥ó®
+jsquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥ó®
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥ó®
+jsquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥ó®
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜›÷û
+?squid:S1940@"(Use the opposite operator ("<") instead.(Ø´Ï‰

@@ -1,0 +1,13 @@
+
+>squid:S1659y""Declare "last" on a separate line.(Ãñ¯øÿÿÿÿ
+psquid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯îÊ
+usquid:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¢ıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ†òäûÿÿÿÿ
+nsquid:S3776+"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ïë»¨ûÿÿÿÿ
+nsquid:S00117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïë»¨ûÿÿÿÿ
+jsquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸åÉ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûË¼
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®F
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÁÑƒıÿÿÿÿ
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(õ†òäûÿÿÿÿ

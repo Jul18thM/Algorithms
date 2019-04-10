@@ -1,0 +1,15 @@
+
+psquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ùŠÁ
+psquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ùŠÁ
+psquid:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¹‰Š
+csquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+Wsquid:HiddenFieldCheckd"5Rename "E" which hides the field declared at line 59.(Îûøï
+lsquid:S00100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Ø½þÿÿÿÿ
+lsquid:S00100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÈÒôýÿÿÿÿ
+isquid:S00116:"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÅÞºøÿÿÿÿ
+dsquid:S00116;"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¤þ–
+isquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÃÎ·
+isquid:S00117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îûøï
+isquid:S00117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÛ¢ü
+osquid:S00117þ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áž•Õøÿÿÿÿ
+vsquid:S2234Þ"YParameters to addEdge have the same names but not the same order as the method arguments.(ðêž£ÿÿÿÿÿ

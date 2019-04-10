@@ -1,0 +1,18 @@
+
+`squid:S1192Õ"HDefine a constant instead of duplicating this literal "distTo[" 4 times.(Ëž¿ð
+psquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü’²™
+qsquid:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü’²™
+psquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò³ª
+Dsquid:S4274U"(Replace this assert with a proper check.(»§¨¡ýÿÿÿÿ
+csquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+csquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(ÞÈ†é
+osquid:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(²ßÜøÿÿÿÿ
+nsquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÃì†ûÿÿÿÿ
+nsquid:S00117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÆøÎüÿÿÿÿ
+isquid:S00117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üé´Â
+osquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ã“Èýÿÿÿÿ
+osquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ßÜøÿÿÿÿ
+jsquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ïÿ®
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ïÿ®
+isquid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüÖ!

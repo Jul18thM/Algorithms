@@ -1,0 +1,13 @@
+
+<squid:S1659"Declare "j" on a separate line.(ãòÈøÿÿÿÿ
+Bsquid:S1659µ"%Declare "hiBound" on a separate line.(òéŽÏÿÿÿÿÿ
+osquid:S1192‘"XDefine a constant instead of duplicating this literal "Priority queue is empty" 3 times.(…æœZ
+|squid:S1192»"dDefine a constant instead of duplicating this literal "Specified index is not in the queue" 5 times.(ÙæŽÛ
+vsquid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷Ô¿“úÿÿÿÿ
+isquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßï”¤
+isquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßï”¤
+isquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÃü¶
+isquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÃü¶
+isquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÃü¶
+fsquid:S00119("IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ç¢‘Èûÿÿÿÿ
+Wsquid:S1161â":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

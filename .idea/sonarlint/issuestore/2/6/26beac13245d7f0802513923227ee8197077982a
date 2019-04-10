@@ -1,0 +1,10 @@
+
+;squid:S1659\"$Declare "height" on a separate line.(¯’’»
+ysquid:S1192w"]Define a constant instead of duplicating this literal "constructor argument is null" 3 times.(”âøÿÿÿÿ
+csquid:CommentedOutCodeLineó"<This block of commented-out lines of code should be removed.(²üÅ×
+U
+squid:S106²"9Replace this use of System.out or System.err by a logger.(çµñ¹úÿÿÿÿ
+U
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(™†ªüÿÿÿÿ
+@squid:S1148®"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+nsquid:S3457Ì"Q%n should be used in place of \n to produce the platform-specific line separator.(™†ªüÿÿÿÿ

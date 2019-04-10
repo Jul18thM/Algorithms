@@ -1,0 +1,22 @@
+
+Rsquid:UnusedPrivateMethod“"-Remove this unused private "toString" method.(®Ó¹u
+Lsquid:S1066Î"/Merge this if statement with the enclosing one.(®Á´‘ûÿÿÿÿ
+osquid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò³ª
+qsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯îÊ
+@squid:S4274"(Replace this assert with a proper check.(’ãé
+u
+squid:S135Ä"YReduce the total number of break and continue statements in this loop to use at most one.(¢¢áÿÿÿÿÿ
+bsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(ñÈüÌ
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(©¬È
+^squid:S1126¤"AReplace this if-then-else statement by a single return statement.(‹ÅÁ§üÿÿÿÿ
+isquid:S3776K"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(˜×İ
+osquid:S3776³"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(°°Çïüÿÿÿÿ
+jsquid:S3776­"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ŠƒÁÀ
+dsquid:S00116;"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı•¡¢
+isquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×İ
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°Çïüÿÿÿÿ
+jsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠƒÁÀ
+osquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¹êÍıÿÿÿÿ
+jsquid:S00117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÕêê
+osquid:S00117í"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôâ¡úÿÿÿÿ
+osquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôàŒøşÿÿÿÿ

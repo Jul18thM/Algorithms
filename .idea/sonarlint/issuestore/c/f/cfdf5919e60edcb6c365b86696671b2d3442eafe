@@ -1,0 +1,11 @@
+
+qsquid:S2293Ý"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÍƒ‚
+rsquid:S4144¿"ZUpdate this method so that its implementation is not identical to "connected" on line 172.(ýÖûÒ
+csquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+Msquid:S1133¿"5Do not forget to remove this deprecated code someday.(ýÖûÒ
+isquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡‰ÖÌ
+nsquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çþÆüúÿÿÿÿ
+nsquid:S00117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Êâýùÿÿÿÿ
+isquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÌ¡
+jsquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ïÿ®
+isquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òüÖ!

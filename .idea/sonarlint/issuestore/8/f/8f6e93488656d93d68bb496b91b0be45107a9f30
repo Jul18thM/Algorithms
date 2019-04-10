@@ -1,0 +1,11 @@
+
+8squid:S1659E"!Declare "mid" on a separate line.(¼Ï×Ø
+:squid:S1659E"#Declare "right" on a separate line.(¼Ï×Ø
+vsquid:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(å»»äøÿÿÿÿ
+psquid:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê”ãp
+psquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê”ãp
+psquid:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ê”ãp
+vsquid:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ÚŸ²úÿÿÿÿ
+squid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷õƒ¢ÿÿÿÿÿ
+asquid:S00119?"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(‘´ 
+`squid:S00119C"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(­ˆ÷a

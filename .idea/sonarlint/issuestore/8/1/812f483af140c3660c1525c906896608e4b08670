@@ -1,0 +1,9 @@
+
+;squid:S1659T"$Declare "height" on a separate line.(¯’’»
+csquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(²üÅ×
+U
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(çµñ¹úÿÿÿÿ
+@squid:S1148¦"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+{squid:S2234Ì"^Parameters to setGrayscale have the same names but not the same order as the method arguments.(ªŽí£üÿÿÿÿ
+rsquid:S2234Í"UParameters to get have the same names but not the same order as the method arguments.(–úÇ„øÿÿÿÿ
+{squid:S2234Î"^Parameters to getGrayscale have the same names but not the same order as the method arguments.(Ü¸Ð¾ùÿÿÿÿ

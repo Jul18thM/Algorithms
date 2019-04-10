@@ -1,0 +1,16 @@
+
+>squid:S16593""Declare "next" on a separate line.(ŒŒìùÿÿÿÿ
+?squid:S16594"#Declare "child" on a separate line.(¾•Š–şÿÿÿÿ
+7squid:S1659Ö"Declare "z" on a separate line.(Óˆ¥²
+osquid:S1192’"XDefine a constant instead of duplicating this literal "Priority queue is empty" 3 times.(…æœZ
+|squid:S1192É"dDefine a constant instead of duplicating this literal "Specified index is not in the queue" 5 times.(ÙæÛ
+usquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¥Ê¡şÿÿÿÿ
+vsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶íÍÿûÿÿÿÿ
+vsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šæ¨üÿÿÿÿ
+Xsquid:HiddenFieldChecké"5Rename "n" which hides the field declared at line 42.(«Ù®Û
+nsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¹Ùúÿÿÿÿÿ
+nsquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒƒ›øÿÿÿÿ
+nsquid:S00117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒƒ›øÿÿÿÿ
+fsquid:S00119%"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(»€Æ–ùÿÿÿÿ
+fsquid:S00119/"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(œÉğ†üÿÿÿÿ
+Wsquid:S1161º":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

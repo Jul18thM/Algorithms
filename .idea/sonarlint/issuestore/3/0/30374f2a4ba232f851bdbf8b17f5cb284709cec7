@@ -1,0 +1,11 @@
+
+9squid:S1659—""Declare "arg2" on a separate line.(ôôæ
+9squid:S1659—""Declare "arg3" on a separate line.(ôôæ
+Psquid:S1197§"8Move the array designator from the variable to the type.(ê·¹‹
+u
+squid:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+@squid:S1481‘"(Remove this unused "cmd" local variable.(Õ²Š¶
+jsquid:S3776Œ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘
+]squid:S2259Å"@A "NullPointerException" could be thrown; "st" is nullable here.(ðÆé‹ÿÿÿÿÿ
+Xsquid:S2259Â"@A "NullPointerException" could be thrown; "st" is nullable here.(”°˜Ý
+Xsquid:S2259»"@A "NullPointerException" could be thrown; "st" is nullable here.( —ƒ€

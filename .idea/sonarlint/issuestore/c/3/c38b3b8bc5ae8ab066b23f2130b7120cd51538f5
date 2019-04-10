@@ -1,0 +1,26 @@
+
+Usquid:UnusedPrivateMethodú"*Remove this unused private "check" method.(–»‡ÿÿÿÿÿ
+:squid:S1659Q"#Declare "right" on a separate line.(¼Ãï 
+vsquid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(åš¿¾ıÿÿÿÿ
+vsquid:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈäËİúÿÿÿÿ
+vsquid:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä›Ü°şÿÿÿÿ
+csquid:CommentedOutCodeLineÁ"<This block of commented-out lines of code should be removed.(Ó¶”
+csquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Ó¶”
+csquid:CommentedOutCodeLine„"<This block of commented-out lines of code should be removed.(Ó¶”
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(Ó¶”
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(Æ“ÆËÿÿÿÿÿ
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(³¿¸‹şÿÿÿÿ
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(¸³”øÿÿÿÿ
+csquid:CommentedOutCodeLineÛ"<This block of commented-out lines of code should be removed.(Ø®Ïš
+csquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(íòäü
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ªÇÂïûÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(ªÇÂïûÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªÇÂïûÿÿÿÿ
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+hsquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(´¶«øÿÿÿÿ
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(¢Üñàşÿÿÿÿ
+osquid:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(üæ¹ºşÿÿÿÿ
+˜squid:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨·ñí
+asquid:S00119F"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ğˆ
+asquid:S00119F"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ğˆ

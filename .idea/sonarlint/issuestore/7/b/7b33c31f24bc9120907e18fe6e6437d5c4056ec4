@@ -1,0 +1,6 @@
+
+vsquid:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÒ¼¯üÿÿÿÿ
+_squid:S1994”"BMove the update of "numberOfNodes" into this loop's update clause.(£¥ôÿşÿÿÿÿ
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(–»‡ÿÿÿÿÿ
+`squid:S00119&"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(¹æ$
+Rsquid:S1161²":Add the "@Override" annotation above this method signature(¹İş±

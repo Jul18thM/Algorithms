@@ -1,0 +1,16 @@
+
+>squid:S1659y""Declare "last" on a separate line.(¬ö‚şÿÿÿÿ
+<squid:S1659 "Declare "w" on a separate line.(º—¡üÿÿÿÿÿ
+Fsquid:S1066}"/Merge this if statement with the enclosing one.(Ç±®“
+usquid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ˆˆ•ÿÿÿÿÿ
+T
+squid:S106~"9Replace this use of System.out or System.err by a logger.(™ÈƒÏşÿÿÿÿ
+U
+squid:S106†"9Replace this use of System.out or System.err by a logger.(˜èÏåıÿÿÿÿ
+_squid:S2259…"BA "NullPointerException" could be thrown; "last" is nullable here.(ØÆ«›üÿÿÿÿ
+isquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÛõ’
+isquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïâ½Ø
+jsquid:S00117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸åÉ
+jsquid:S00117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûË¼
+isquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®F
+osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ğÆ¥ıÿÿÿÿ

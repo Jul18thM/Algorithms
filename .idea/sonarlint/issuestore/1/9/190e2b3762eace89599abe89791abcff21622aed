@@ -1,0 +1,35 @@
+
+7squid:S1659÷"Declare "t" on a separate line.(’ÇªÍ
+Lsquid:S1066‹"/Merge this if statement with the enclosing one.(®Á´‘ûÿÿÿÿ
+qsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯îÊ
+8squid:S3626½"Remove this redundant jump.(ûÉ´ıÿÿÿÿ
+Dsquid:S4274W"(Replace this assert with a proper check.(âß×³ûÿÿÿÿ
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(´Áüí
+U
+squid:S106³"9Replace this use of System.out or System.err by a logger.(Ö÷¤¥ûÿÿÿÿ
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(à‹¹û
+P
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(„ÿ¢¾
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(à‹¹û
+U
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ÃÊÄøÿÿÿÿ
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(ÔáÂÃûÿÿÿÿ
+U
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(±”Š´ùÿÿÿÿ
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(ã«‡Êıÿÿÿÿ
+U
+squid:S106å"9Replace this use of System.out or System.err by a logger.(´çŸñşÿÿÿÿ
+isquid:S00116,"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜×Ù¿øÿÿÿÿ
+hsquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Î…
+nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ´¬âüÿÿÿÿ
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¥ßµıÿÿÿÿ
+osquid:S00117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àú‡šúÿÿÿÿ
+isquid:S00117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÀú;
+jsquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸åÉ
+jsquid:S00117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûË¼
+jsquid:S00117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³•ğÂ

@@ -1,0 +1,12 @@
+
+:squid:S1659H"#Declare "right" on a separate line.(ŒÒ—«
+vsquid:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(åš¿¾ýÿÿÿÿ
+vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈäËÝúÿÿÿÿ
+vsquid:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïË—Ôùÿÿÿÿ
+qsquid:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê¾‰ç
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(É™ˆ²ýÿÿÿÿ
+Wsquid:S2259ã"?A "NullPointerException" could be thrown; "x" is nullable here.(ÐÔ‘¹
+_squid:S00112–"FDefine and throw a dedicated exception instead of using a generic one.(¥ºáÞ
+—squid:S1186U"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õÄ°M
+asquid:S00119B"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ê­óÀ
+asquid:S00119B"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ê­óÀ

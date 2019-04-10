@@ -1,0 +1,26 @@
+
+?squid:S1659Ô""Declare "last" on a separate line.(Ãñ¯øÿÿÿÿ
+usquid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(û£Áåÿÿÿÿÿ
+usquid:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¡ÌÌşÿÿÿÿ
+psquid:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û
+usquid:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¢ıÿÿÿÿ
+@squid:S4274ƒ"(Replace this assert with a proper check.(’ãé
+^squid:S1126Ù"AReplace this if-then-else statement by a single return statement.(ò÷şÿÿÿÿ
+Jsquid:S1135Ñ"2Complete the task associated to this TODO comment.(…ïœ†
+Jsquid:S1135Ñ"2Complete the task associated to this TODO comment.(…ïœ†
+isquid:S3776F"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ş­
+isquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş­
+osquid:S00117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÍöøÿÿÿÿ
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì‚ñ³øÿÿÿÿ
+jsquid:S00117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠƒÁÀ
+jsquid:S00117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÁÍ
+jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸åÉ
+jsquid:S00117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ûË¼
+osquid:S00117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿÷îèşÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËƒéÄùÿÿÿÿ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÍ£øÿÿÿÿ
+jsquid:S00117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÿÉ¯
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´œìûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È’ÂÏ
+jsquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è²»ç
+osquid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù„¸Ÿùÿÿÿÿ

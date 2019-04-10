@@ -1,0 +1,22 @@
+
+6squid:S1659b"Declare "w" on a separate line.(Ü­Å
+bsquid:S1192G"FDefine a constant instead of duplicating this literal "edge " 3 times.(‡ø÷‘ıÿÿÿÿ
+osquid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(šµ¢
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í«Ì¡şÿÿÿÿ
+Dsquid:S4274]"(Replace this assert with a proper check.(»§¨¡ıÿÿÿÿ
+csquid:CommentedOutCodeLineÊ"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+P
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(¼†³ù
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(´Óö»
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ñğ›‚øÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(Í‚£šşÿÿÿÿ
+O
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(˜İ¥Z
+osquid:S3776š"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(øØ˜«ÿÿÿÿÿ
+isquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥³Á‹
+osquid:S00117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øØ˜«ÿÿÿÿÿ
+osquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è×ÍÒûÿÿÿÿ
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì«œÿøÿÿÿÿ

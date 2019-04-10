@@ -1,0 +1,17 @@
+
+ssquid:S1192Ë"\Define a constant instead of duplicating this literal "unsupported audio format: '" 3 times.(¡™1
+nsquid:S1192¢"QDefine a constant instead of duplicating this literal "could not play '" 5 times.(Ô¼Ü®øÿÿÿÿ
+3squid:S3626"Remove this redundant jump.(ûÁİ…
+csquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ÙÉä‹
+csquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(›®€Ô
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+Asquid:S1905¥")Remove this unnecessary cast to "double".( ”Á”
+@squid:S1604’"(Make this anonymous inner class a lambda(ÉãÃ®
+bsquid:S2147Ô"ECombine this catch with the one at line 337, which has the same body.(Â“İ½ûÿÿÿÿ
+bsquid:S2147×"ECombine this catch with the one at line 337, which has the same body.(…Ø´Îúÿÿÿÿ
+bsquid:S2147ù"ECombine this catch with the one at line 374, which has the same body.(©œ¡ÿÿÿÿÿ
+jsquid:S00117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚µóò
+@squid:S1148Ò"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

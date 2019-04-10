@@ -1,0 +1,11 @@
+
+psquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").( Œäæ
+rsquid:S4144Š"UUpdate this method so that its implementation is not identical to "name" on line 127.(â¯¤µüÿÿÿÿ
+csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Ì˜½Ë
+Lsquid:S1133j"5Do not forget to remove this deprecated code someday.(ì²ƒž
+Qsquid:S1133"5Do not forget to remove this deprecated code someday.(Úïá—üÿÿÿÿ
+Msquid:S1133—"5Do not forget to remove this deprecated code someday.(ƒÚ¸‘
+[squid:CallToDeprecatedMethod¸"-Remove this use of "index"; it is deprecated.(¿èøóøÿÿÿÿ
+Zsquid:CallToDeprecatedMethod¹",Remove this use of "name"; it is deprecated.(ï®Åúûÿÿÿÿ
+gsquid:S00100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÚ¸‘
+jsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û©–þ

@@ -1,0 +1,9 @@
+
+8squid:S1659+""Declare "next" on a separate line.(¯ŒÆ|
+<squid:S1659¿"Declare "z" on a separate line.(ÆòƒÁüÿÿÿÿ
+psquid:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(®¢ÊÍ
+vsquid:S2293Ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(°È›úÿÿÿÿ
+nsquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÓØˆıÿÿÿÿ
+isquid:S00117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¨²°
+asquid:S00119 "IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ïå÷¤
+Wsquid:S1161­":Add the "@Override" annotation above this method signature(¦³üëûÿÿÿÿ

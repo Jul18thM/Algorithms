@@ -1,0 +1,18 @@
+
+qsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¯îÊ
+?squid:S4274s"(Replace this assert with a proper check.(’ãé
+u
+squid:S135’"YReduce the total number of break and continue statements in this loop to use at most one.(¢¢áÿÿÿÿÿ
+bsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(©¬È
+^squid:S1126ª"AReplace this if-then-else statement by a single return statement.(‹ÅÁ§üÿÿÿÿ
+nsquid:S3776J"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(õ‹ğÿûÿÿÿÿ
+osquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(°°Çïüÿÿÿÿ
+jsquid:S3776û"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ŠƒÁÀ
+dsquid:S00116:"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı•¡¢
+nsquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‹ğÿûÿÿÿÿ
+osquid:S00117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°Çïüÿÿÿÿ
+jsquid:S00117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠƒÁÀ
+osquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¹êÍıÿÿÿÿ
+jsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÕêê
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ôâ¡úÿÿÿÿ
+osquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôàŒøşÿÿÿÿ

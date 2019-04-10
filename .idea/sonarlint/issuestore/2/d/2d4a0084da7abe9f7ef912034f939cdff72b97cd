@@ -1,0 +1,7 @@
+
+9squid:S1643Ş"Use a StringBuilder instead.(ıÒìÎøÿÿÿÿ
+9squid:S1643ß"Use a StringBuilder instead.(ûÌÊòÿÿÿÿÿ
+4squid:S1643à"Use a StringBuilder instead.(îöÚß
+9squid:S1643á"Use a StringBuilder instead.(ŒŸâøÿÿÿÿ
+hsquid:S1206—"PThis class overrides "equals()" and should therefore also override "hashCode()".(°Ñµ˜
+bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(°ìÔ¥

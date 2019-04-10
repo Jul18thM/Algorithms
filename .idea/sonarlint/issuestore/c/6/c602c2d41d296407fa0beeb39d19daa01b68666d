@@ -1,0 +1,28 @@
+
+?squid:S1659Õ""Declare "ymin" on a separate line.(ÕÛ÷øÿÿÿÿÿ
+?squid:S1659Õ""Declare "xmax" on a separate line.(ÕÛ÷øÿÿÿÿÿ
+?squid:S1659Õ""Declare "ymax" on a separate line.(ÕÛ÷øÿÿÿÿÿ
+Hsquid:S1659å"+Declare "onscreenImage" on a separate line.(õÚ¡¼ùÿÿÿÿ
+>squid:S1659æ"&Declare "onscreen" on a separate line.(ÙÌ’
+isquid:S1192ê"LDefine a constant instead of duplicating this literal " is corrupt" 4 times.(—ıÌáûÿÿÿÿ
+wsquid:S1192ä"ZDefine a constant instead of duplicating this literal "filename argument is null" 4 times.(¡â–›øÿÿÿÿ
+…squid:S1192ö"hDefine a constant instead of duplicating this literal "amount of red must be between 0 and 255" 3 times.(ÌÔ®Âøÿÿÿÿ
+dsquid:S1192×"GDefine a constant instead of duplicating this literal "image " 5 times.(Ğ´´†üÿÿÿÿ
+qsquid:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÑÛïö
+vsquid:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÁÅ·ıÿÿÿÿ
+qsquid:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛöŠÔ
+ysquid:S1450å"\Remove the "onscreenImage" field and declare it as a local variable in the relevant methods.(õÚ¡¼ùÿÿÿÿ
+csquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Õå¡Å
+hsquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(Ê×ì øÿÿÿÿ
+hsquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(Üñÿòúÿÿÿÿ
+P
+squid:S106›"9Replace this use of System.out or System.err by a logger.(øû‘Ş
+U
+squid:S106é"9Replace this use of System.out or System.err by a logger.(ÓºÀûÿÿÿÿ
+Rsquid:S1133Œ"5Do not forget to remove this deprecated code someday.(òè şÿÿÿÿ
+Rsquid:S1133«	"5Do not forget to remove this deprecated code someday.(¸İÇÙúÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ûáâ­üÿÿÿÿ
+csquid:S2142š"FEither re-interrupt this method or rethrow the "InterruptedException".(²ı…¦ûÿÿÿÿ
+@squid:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+*squid:S1700â"Rename field "draw"(Ñ×™
