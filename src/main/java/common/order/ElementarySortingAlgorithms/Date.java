@@ -1,4 +1,4 @@
-package common.order;
+package common.order.ElementarySortingAlgorithms;
 
 /**
  * @Author:sgyt
