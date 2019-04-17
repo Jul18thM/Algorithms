@@ -1,7 +1,7 @@
-package common.order.package02;
+package common.Chapter02order.package02;
 
 import common.model.IntModel;
-import common.order.ElementarySortingAlgorithms.Example;
+import common.Chapter02order.package01.Example;
 
 import java.util.Random;
 

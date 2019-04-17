@@ -1,6 +1,4 @@
-package common.package01;
-
-import common.com.ThreeSum;
+package common.Chapter01basic;
 
 /**
  * @Author:sgyt

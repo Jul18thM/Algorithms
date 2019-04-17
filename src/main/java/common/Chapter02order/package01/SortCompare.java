@@ -1,4 +1,4 @@
-package common.order.ElementarySortingAlgorithms;
+package common.Chapter02order.package01;
 
 
 import common.com.*;
