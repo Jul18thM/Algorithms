@@ -1,6 +1,9 @@
 package common.order.package02;
 
+import common.model.IntModel;
 import common.order.ElementarySortingAlgorithms.Example;
+
+import java.util.Random;
 
 /**
  * @Author:sgyt
@@ -8,6 +11,15 @@ import common.order.ElementarySortingAlgorithms.Example;
  * @Date:2019/4/15 8:34
  */
 public class Merge {
+    //这个是归并用到的辅助类
+    private static Comparable[] aux;
+    /***
+     *
+     * @param a   需要比较的数组
+     * @param lo  开始的值
+     * @param mid 中间切断值
+     * @param hi  末尾的值length-1
+     */
     public static void merge(Comparable[] a,int lo,int mid,int hi) {
         //将a[lo...mid]和a[mid+1...hi]归并
         int i = lo;
@@ -31,16 +43,6 @@ public class Merge {
         }
     }
 
-    //这个是归并用到的辅助类
-    private static Comparable[] aux;
-
-
-    public static void sort(Comparable[] a)
-    {
-        aux = new Comparable[a.length];
-        Example.sort(aux);
-    }
-
     private static void sort(Comparable[] a,int lo,int hi)
     {
         //将数组a[lo...hi]排序
@@ -52,6 +54,34 @@ public class Merge {
         sort(a,mid+1,hi);//右半边递归自身
         merge(a,lo,mid,hi);
 
+    }
+
+    //最终的方法
+    public static void mergeSort(Comparable[] a)
+    {
+        aux = new Comparable[a.length];
+        sort(a,0,a.length-1);
+    }
+
+
+    public static void main(String[] args) {
+        Random r = new Random();
+        IntModel[] list = new IntModel[200];
+        for(int i=0;i<list.length;i++){
+            IntModel c = new IntModel(r.nextInt(1000));
+            list[i] = c;
+        }
+        for(IntModel model:list)
+        {
+            System.out.print(model.getK()+",");
+        }
+        System.out.println("........................................");
+//        把数组复制到aux中（）
+        mergeSort(list);
+        for(IntModel model:list)
+        {
+            System.out.print(model.getK()+",");
+        }
     }
 
 }

@@ -2,7 +2,7 @@ package common.order.ElementarySortingAlgorithms;
 
 /**
  * @Author:sgyt
- * @Description:
+ * @Description:希尔排序，底层还是插入排序
  * @Date:2019/4/11 15:36
  */
 public class Shell {
