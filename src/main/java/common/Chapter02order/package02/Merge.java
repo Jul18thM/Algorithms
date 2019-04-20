@@ -3,6 +3,8 @@ package common.Chapter02order.package02;
 import common.model.IntModel;
 import common.Chapter02order.package01.Example;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 /**
@@ -13,6 +15,7 @@ import java.util.Random;
 public class Merge {
     //这个是归并用到的辅助类
     private static Comparable[] aux;
+
     /***
      *
      * @param a   需要比较的数组
@@ -27,6 +30,7 @@ public class Merge {
         for (int k = lo; k <= hi; k++) {
             //将a[lo..hi]复制到aux[lo..hi]
             aux[k] = a[k];
+//            arr[k] = a[k];
         }
 
         for (int k = lo; k <= hi; k++) {
@@ -66,7 +70,7 @@ public class Merge {
 
     public static void main(String[] args) {
         Random r = new Random();
-        IntModel[] list = new IntModel[200];
+        IntModel[] list = new IntModel[20];
         for(int i=0;i<list.length;i++){
             IntModel c = new IntModel(r.nextInt(1000));
             list[i] = c;
@@ -76,11 +80,19 @@ public class Merge {
             System.out.print(model.getK()+",");
         }
         System.out.println("........................................");
-//        把数组复制到aux中（）
+        System.out.println("list");
         mergeSort(list);
         for(IntModel model:list)
         {
             System.out.print(model.getK()+",");
+        }
+        System.out.println("........................................");
+        System.out.println("aux");
+        //
+        for(int k=0;k<aux.length;k++)
+        {
+            IntModel md = (IntModel)aux[k];
+            System.out.print(md.getK()+",");
         }
     }
 
