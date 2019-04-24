@@ -431,3 +431,5 @@ h
 8src/main/java/common/Chapter02order/package02/Merge.java,8\d\8ddf0f375b3a6afeb3757611dfb4fe3e058a8057
 j
 :src/main/java/common/Chapter02order/package02/MergeBU.java,e\c\ecaea975286ad4ee1115579e1224e9ab1edbe130
+h
+8src/main/java/common/Chapter02order/package03/Quick.java,e\a\eab906fba89bb3ccb4d61ae43411696586061d61
